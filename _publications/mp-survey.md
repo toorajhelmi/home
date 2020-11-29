@@ -9,4 +9,3 @@ paperurl: 'http://toorajhelmi.github.io/home/files/mp-survey.pdf'
 ---
 
 [Download paper here](http://toorajhelmi.github.io/home/files/mp-survey.pdf)
-[Access code here](http://toorajhelmi.github.io/home/code/)
