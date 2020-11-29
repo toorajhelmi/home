@@ -8,4 +8,4 @@ venue: 'Multimedia Information Systems'
 paperurl: 'http://toorajhelmi.github.io/files/near-optimal.pdf'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://toorajhelmi.github.io/files/near-optimal.pdf)
