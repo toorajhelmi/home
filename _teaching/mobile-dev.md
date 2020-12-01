@@ -2,10 +2,10 @@
 title: "Mobile Application Development"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/mobile-dev
+venue: "University of Southern California"
+date: 2020-08-01
+location: "Los Angeles, CA"
 paperurl: 'http://toorajhelmi.github.io/home/files/mobile-dev.pdf'
 ---
 
