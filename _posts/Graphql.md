@@ -1,7 +1,7 @@
 ---
 title: 'Creating GraphQL APIs with C#'
-date: 2020/12/01
-permalink: /posts/year-archive/graphql/
+date: 2020-12-01
+permalink: /posts/2020/12/graphql/
 tags:
   - GraphQL
   - C#
