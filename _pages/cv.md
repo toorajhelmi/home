@@ -58,5 +58,5 @@ Teaching
 ======
 
 * Teaching Assistant, Computer Progamming in C++
-* Teaching Assistant,cDatabase Systems
+* Teaching Assistant, Database Systems
 * Traching Assistant, Multimedia Systems
