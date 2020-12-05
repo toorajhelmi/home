@@ -8,4 +8,4 @@ venue:
 paperurl: 'http://toorajhelmi.github.io/home/files/thesis.pdf'
 ---
 
-[Download paper here](http://toorajhelmi.github.io/home/files/econ-thesis.pdf)
+[Download paper here](http://toorajhelmi.github.io/home/files/thesis.pdf)
