@@ -17,6 +17,6 @@ redirect_from:
 - Imbalanced data is an issue if classes are not separable
 - For inseperable data, imbalanced data can be fixed using under/over sampling or adding extra-features
 - When there is imbalanced data it is very important took look at metrics beyond accuracy like F1 score, confusion matrix, ...
-- Nice mathematical treatment of this concepts similar to what I had seen similar in estimation theory 
+- Nice mathematical treatment of this concepts similar to what I had seen similar in estimation theory
 
 ***

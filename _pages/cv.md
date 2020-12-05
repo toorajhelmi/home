@@ -11,49 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* BS, Electrical Eng., Univ. of Tehran, 2001
+* MS, Electrical Eng., USC, 2003
+* MS, Computer Science, USC, 2005
+* MS, Eng. Management, USC, 2012
+* MBA, Marshall School, USC, 2012
+* PhD Economics, Suffolk University, 2017
+* PhD Computer Science, USC, 2023 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Builder.AI, 2019-2020
+  * Sr Director of Engineering
+
+* Neudesic, 2017-2019
+  * Director, Digital Platform and Innovations
+
+* Avanade, 2013-2016
+  * Group Manager, Solution Architect
+
+* Sapient, 2012-2013  
+  * Technology Manager
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
+* To Share or Not to Share Storage in Mesh Networks: A System Throughput Perspective.
+  * International Workshop on Data Management for Wireless and Pervasive Communication (DMWPC)
+  * Okinawa, Japan, March 25-28, 2008
+* An Evaluation of Two Policies for Placement of Continuous Media in Multi-hop Wireless Networks.  
+  * Twelfth International Conference on Distributed Multimedia Systems (DMS 2006)
+  * Grand Canyon, Aug 30-Sept 1, 2006
+* Delivery of Continuous Media in Ad-Hoc Networks of Wireless Devices.
+  * Distinguished Lecturer Series, Wright State University
+  * December 8, 2004
+* A Case for a Mobility Based Admission Control Policy.
+  * In Proceedings of the International Conference on Distributed Multimedia Systems
+  * San Francisco, September 2004
+* Near Optimal Number of Replicas for Continuous Media in Ad-hoc Networks of Wireless Devices.  
+  * International Workshop on Multimedia Information Systems, Washington D.C.
+  * August 25-27, 2004
+ 
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Teaching Assistant, Computer Progamming in C++
+* Teaching Assistant,cDatabase Systems
+* Traching Assistant, Multimedia Systems
