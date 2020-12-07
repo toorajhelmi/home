@@ -1,10 +1,10 @@
 ---
 title: "Interchain"
-excerpt: "Sharing Economy for Cloud Computing <br/><img src='/images/interchain.png'>"
+excerpt: "Sharing Economy for Cloud Computing"
 collection: portfolio
 ---
 
-Interchain is the future of cloud computing. Like how Uber and Airbnb let people rent their car and home, Interchain let people rent their computers and get paid based on the amount of resources consumed from them including storage, CPU, and bandwidth. Applications that will run on the computer range from web servers to distributed simulations. 
+Interchain could be the future of cloud computing. Like how Uber and Airbnb let people rent their car and home, Interchain let people rent their computers and get paid based on the amount of resources consumed from them including storage, CPU, and bandwidth. Applications that will run on the computer range from web servers to distributed simulations. 
 
 Everybody with a PC, Mac, or Linux can join Interchain by installing the Interchain Node application. 
 

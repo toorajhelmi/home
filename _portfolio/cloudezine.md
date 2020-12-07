@@ -1,6 +1,6 @@
 ---
 title: "Cloudezine"
-excerpt: "Sharing Economy for Cloud Computing <br/><img src='/images/interchain.png'>"
+excerpt: "Sharing Economy for Cloud Computing"
 collection: portfolio
 ---
 
