@@ -23,7 +23,10 @@ Education
 Work experience
 ======
 
-* Builder.AI, 2019-2020
+* Apsy, Since 2021
+  * Founder & CEO 
+
+* Builder, 2019-2020
   * Sr Director of Engineering
 
 * Neudesic, 2017-2019
